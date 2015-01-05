@@ -6,6 +6,6 @@ application for Bossable.com Tutorials
 Thanks Shritsti .
 
 
-## Online
+## Deployed
 
 you can try it online ->   http://firstmeanadil.nodejitsu.com/
