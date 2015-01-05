@@ -1,0 +1,26 @@
+.cust-profile{
+	font-size:250px;
+}
+
+.list-cust-profile{
+	font-size:150px;
+}
+
+
+.checkbox-align{
+	width:10%;
+	text-align: left;
+}
+
+.text-pink{
+	color:pink;
+}
+
+.customers-space{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+input[type="radio"],input[type="checkbox"]{
+	margin : 0px 0 0 !important;
+}
